@@ -27,4 +27,4 @@
   <img alt="Lezitu-luffy" width="205" height="130" src="https://media.giphy.com/media/q8ld8Sk7WWyY0/giphy.gif">
   
   ##
-  <!-- Baseado no perfil da rafaballerini --!> 
+  <!-- Baseado no perfil da rafaballerini --> 
