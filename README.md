@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Html / CSS / JavaScript / GameMaker Language.
 - 📫 Contate-me no email: vou criar ainda :P.
-- 😄 Pronome: Ele/Dele.
 
 <div>
   <a href="https://github.com/Leozitu">
