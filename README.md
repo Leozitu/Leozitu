@@ -1,6 +1,6 @@
 ### Olá! eu me chamo Leonardo 👋
 
-- 🌱 Estudando Html / CSS / JavaScript / GameMaker Language.
+- 🌱 Estudando / Html / CSS / JavaScript / Python /
 - 📫 Contate-me no email: vou criar ainda :P.
 
 <div>
