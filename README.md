@@ -1,7 +1,7 @@
 ### Olá! eu me chamo Leonardo 👋
 
 - 🌱 Estudando / Html / CSS / JavaScript / Python /
-- 📫 Contate-me no email: vou criar ainda :P.
+- 📫 Contate-me no email: leonardomdev5@gmail.com.
 
 <div>
   <a href="https://github.com/Leozitu">
